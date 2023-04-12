@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/DoublyLinkedList.dir/main.cpp.o CMakeFiles/DoublyLinkedList.dir/Sources/DoublyLinkedList.cpp.o CMakeFiles/DoublyLinkedList.dir/Sources/DoublyLinkedListMenu.cpp.o -o DoublyLinkedList 

@@ -1,0 +1,3 @@
+/mnt/c/Users/a1016/CLionProjects/DoublyLinkedList/cmake-build-debug/CMakeFiles/DoublyLinkedList.dir
+/mnt/c/Users/a1016/CLionProjects/DoublyLinkedList/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/a1016/CLionProjects/DoublyLinkedList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
